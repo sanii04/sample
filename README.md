@@ -1,2 +1,2 @@
 # sample
-Author - Sanika Arade
+Author - Sanika Arade (computer student)
